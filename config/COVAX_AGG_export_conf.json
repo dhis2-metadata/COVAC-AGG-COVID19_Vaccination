@@ -1,0 +1,149 @@
+{
+    "export": [
+        {
+            "_basePath": "./COVAX_AGG/",
+            "_code": "COVAX_AGG",
+            "_name": "COVAX_AGG dashboard",
+            "_prefix": "[CONFIG]",
+            "_ownership": {
+                "modeOwner": "OVERWRITE",
+                "modeLastUpdated": "REMOVE",
+                "ownerId": "KB1ivLZXMv8"
+            },
+            "_sharing": {
+                "groupMode": "OVERWRITE",
+                "groups": [
+                    {
+                        "id": "e2QMDWpq88P",
+                        "metadata": "EDIT",
+                        "data": "EDIT"
+                    },
+                    {
+                        "id": "I9x6Bd4MwXc",
+                        "metadata": "VIEW",
+                        "data": "EDIT"
+                    },
+                    {
+                        "id": "OeiDCnG3Pv2",
+                        "metadata": "VIEW",
+                        "data": "VIEW"
+                    }
+                ],
+                "groupExport": true,
+                "userMode": "REMOVE",
+                "users": [],
+                "userExport": false,
+                "publicAccess": {
+                    "metadata": "VIEW",
+                    "data": "VIEW"
+                }
+            },
+            "_type": "dashboardAggregate",
+            "_url": [
+                "https://who-dev.dhis2.org/covax_agg",
+                "https://who.sandbox.dhis2.org/covax_agg_233"
+            ],
+            "_version": "1.0",
+            "customObjects": [
+                {
+                    "objectIds": [
+                        "fyC1NhjpBH5",
+                        "GhXdnHkmph9",
+                        "zp3l4iQWPLh"
+                    ],
+                    "objectType": "constants"
+                }
+            ],
+            "dashboardIds": [
+                "fya0FUpbxX9"
+            ],
+            "indicatorGroupIds": [
+                "SKgp2iI0dJp"
+            ],
+            "exportIndicatorGroupsIds": [
+                "SKgp2iI0dJp"
+            ]
+        },
+        {
+            "_basePath": "./COVAX_AGG/",
+            "_code": "COVAX_AGG",
+            "_name": "COVAX_AGG complete",
+            "_prefix": "[CONFIG]",
+            "_ownership": {
+                "modeOwner": "OVERWRITE",
+                "modeLastUpdated": "REMOVE",
+                "ownerId": "KB1ivLZXMv8"
+            },
+            "_sharing": {
+                "groupMode": "OVERWRITE",
+                "groups": [
+                    {
+                        "id": "e2QMDWpq88P",
+                        "metadata": "EDIT",
+                        "data": "EDIT"
+                    },
+                    {
+                        "id": "I9x6Bd4MwXc",
+                        "metadata": "VIEW",
+                        "data": "EDIT"
+                    },
+                    {
+                        "id": "OeiDCnG3Pv2",
+                        "metadata": "VIEW",
+                        "data": "VIEW"
+                    }
+                ],
+                "groupExport": true,
+                "userMode": "REMOVE",
+                "users": [],
+                "userExport": false,
+                "publicAccess": {
+                    "metadata": "VIEW",
+                    "data": "VIEW"
+                }
+            },
+            "_type": "completeAggregate",
+            "_url": [
+                "https://who-dev.dhis2.org/covax_agg",
+                "https://who.sandbox.dhis2.org/covax_agg_233"
+            ],
+            "_version": "1.0",
+            "customObjects": [
+                {
+                    "objectIds": [
+                        "fyC1NhjpBH5",
+                        "GhXdnHkmph9",
+                        "zp3l4iQWPLh"
+                    ],
+                    "objectType": "constants"
+                }
+            ],
+            "dashboardIds": [
+                "fya0FUpbxX9"
+            ],
+            "dataElementGroupIds": [
+                "Y1xqAUPAs7A"
+            ],
+            "dataSetIds": [
+                "QRyardfjc76",
+                "JYPhXEzBU2r",
+                "Le8SvNemLGm"
+            ],
+            "exportDataSetIds": [
+                "QRyardfjc76",
+                "JYPhXEzBU2r",
+                "Le8SvNemLGm"
+            ],
+            "validationRuleGroupIds": [
+                "OBpdFqWkQMK"
+            ],
+            "predictorGroupIds": [],
+            "indicatorGroupIds": [
+                "SKgp2iI0dJp"
+            ],
+            "exportIndicatorGroupsIds": [
+                "SKgp2iI0dJp"
+            ]
+        }
+    ]
+}
