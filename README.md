@@ -1,1 +1,1 @@
-# COVAC_AGG - COVID19 Vaccination - aggregate
+# COVAC - COVID19 Vaccination - aggregate metadata package
