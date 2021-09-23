@@ -1,4 +1,4 @@
-# COVID-19 Vaccine Delivery (COVIDVAC) Aggregate System Design Guide - Version 1.1.0
+# COVID-19 Vaccine Delivery (COVIDVAC) Aggregate System Design Guide - Version 1.1.0 { #covidvac-aggregate-design }
 
 ## 1. Introduction
 
