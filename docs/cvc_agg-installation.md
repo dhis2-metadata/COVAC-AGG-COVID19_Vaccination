@@ -1,4 +1,4 @@
-# Aggregate Package Installation Guide { #covidvac-aggregate-installation }
+# Aggregate Package Installation Guide { #cvc-agg-installation }
 
 ## Overview
 
