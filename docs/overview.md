@@ -1,4 +1,4 @@
-# COVID-19 Vaccine Delivery
+# COVID-19 Vaccination
 
 ## Design
 
