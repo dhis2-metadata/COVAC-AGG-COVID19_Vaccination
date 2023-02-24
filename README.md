@@ -1,1 +1,1 @@
-# COVAX_AGG-COVID19_Immunization-aggregate
+# CVC_AGG - COVID-19 Immunization aggregate
