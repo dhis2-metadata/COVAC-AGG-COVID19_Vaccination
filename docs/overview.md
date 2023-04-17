@@ -6,7 +6,7 @@
 
 ## Design
 
-- [Version 1.1.0](#cvc-agg-design-110)
+- [Version 1.1.0](#cvc-agg-design)
 
 - [Version 1.0.0](#cvc-agg-design-100)
 
