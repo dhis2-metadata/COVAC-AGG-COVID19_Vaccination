@@ -8,8 +8,6 @@
 
 - [Version 1.1.0](#cvc-agg-design)
 
-- [Version 1.0.0](#cvc-agg-design-100)
-
 ## Installation
 
 - [Installation Guide](#cvc-agg-installation)
